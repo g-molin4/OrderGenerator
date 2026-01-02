@@ -17,7 +17,7 @@ Aplicação **full stack** composta por um **backend em Node.js** e um **fronten
   - React Toastify
   - Integração com API REST
 
-##🎨 Instalação
+## 🎨 Instalação
   
       git clone https://github.com/g-molin4/OrderGenerator.git
       cd OrderGenerator
