@@ -1,6 +1,6 @@
 # 📊 Order Accumulator
 
-Aplicação **full stack** composta por um **backend em Node.js** e um **frontend em React**, desenvolvida para simular o acúmulo de ordens de compra e venda e o cálculo de **exposição financeira por ativo**, seguindo boas práticas de arquitetura, organização de código e testes automatizados. Esse repositório é o frontend da aplicação **OrderGenerator** do meu Github.
+Aplicação **full stack** composta por um **backend em Node.js** e um **frontend em React**, desenvolvida para simular o acúmulo de ordens de compra e venda e o cálculo de **exposição financeira por ativo**, seguindo boas práticas de arquitetura, organização de código e testes automatizados. Esse repositório é o frontend da aplicação **OrderGenerator** do meu Github. 
 
 # Frontend
 - Formulário de criação de ordens
@@ -23,4 +23,9 @@ Aplicação **full stack** composta por um **backend em Node.js** e um **fronten
       cd OrderGenerator
       npm install
       npm run dev
-    
+
+## 📷 Imagens
+![Logo do Projeto](imagens/telainicial.png)
+![Logo do Projeto](imagens/criarOrder.png)
+![Logo do Projeto](imagens/criarOrdemErro.png)
+
