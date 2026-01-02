@@ -1,16 +1,26 @@
-# React + Vite
+# 📊 Order Accumulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicação **full stack** composta por um **backend em Node.js** e um **frontend em React**, desenvolvida para simular o acúmulo de ordens de compra e venda e o cálculo de **exposição financeira por ativo**, seguindo boas práticas de arquitetura, organização de código e testes automatizados. Esse repositório é o frontend da aplicação **OrderGenerator** do meu Github.
 
-Currently, two official plugins are available:
+# Frontend
+- Formulário de criação de ordens
+- Máscara de moeda brasileira (R$)
+- Listagem de exposição financeira por ativo
+- Feedback visual com Toasts (sucesso / erro)
+- Interface responsiva e estilizada
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## React Compiler
+## 🚀 Tecnologias Utilizadas
+  - React
+  - Vite
+  - Tailwind CSS
+  - React Toastify
+  - Integração com API REST
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##🎨 Instalação
+  
+      git clone https://github.com/g-molin4/OrderGenerator.git
+      cd OrderGenerator
+      npm install
+      npm run dev
+    
